@@ -3,6 +3,8 @@ Marensics is forensics project under development. Basically it represents small 
 It stores everything in one directory, to be specific in one txt file. Not just that, it zips all log files and puts them
 in same directory so you can prepare everything and check it later.
 
+Made for Linux (Tested on Debian and Arch)
+
 Keep in mind that this is a demo version and it is still buggy and not finished.
 
 Usage: sudo bash marensics.sh
